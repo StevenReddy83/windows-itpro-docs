@@ -48,7 +48,7 @@ How to install, set up, turn on, and configure Application Guard for Enterprise-
 
 ### Install, set up, and turn on Application Guard
 
-Before you can use Application Guard in managed mode, you must install Windows 10 Enterprise edition, version 1709, and Windows 11 which includes the functionality. Then, you must use Group Policy to set up the required settings.
+Before you can use Application Guard in managed mode, you must install Windows 10 Enterprise edition, version 1709, and Windows 11 Enterprise edition which includes the functionality. Then, you must use Group Policy to set up the required settings.
 
 1. [Install Application Guard](./install-md-app-guard.md#install-application-guard).
 
